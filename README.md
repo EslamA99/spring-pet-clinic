@@ -1,13 +1,17 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic.svg?style=svg)](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic)
+Petclinic is a Spring Boot application built using Maven.
+What I used in this application:
+1-Maven
+2-Hibernate
+3-spring MVC
+4-Bean Validation (Hibernate Validator)
+5-Logback
+6-Lombok
+7-thymeleaf
+8-bootsrtap
+9-H2 DB
 
-# Spring Framework Guru Pet Clinic
-
-This repo is for my online course called [Spring Framework 5: Beginner to Guru](https://www.udemy.com/spring-framework-5-beginner-to-guru/?couponCode=GITHUB_SFGPETCLINIC).
-
-Contained in this repo is an opinionated version of the classic reference application - [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic)
+This is a demonstration video showing how the program works
 
 
+https://user-images.githubusercontent.com/36113402/212568858-1124f4ad-520c-41b5-aa48-97de74ebabfc.mp4
 
-# License
-
-The Spring PetClinic sample application is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
