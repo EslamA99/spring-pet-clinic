@@ -8,9 +8,8 @@ import lombok.Setter;
 import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
 
-/**
- * Created by jt on 7/13/18.
- */
+
+
 @Getter
 @Setter
 @AllArgsConstructor
